@@ -1,0 +1,16 @@
+/home/cyking/Projects/ex04/obj/Debug/net5.0/ex04.csproj.AssemblyReference.cache
+/home/cyking/Projects/ex04/obj/Debug/net5.0/ex04.GeneratedMSBuildEditorConfig.editorconfig
+/home/cyking/Projects/ex04/obj/Debug/net5.0/ex04.AssemblyInfoInputs.cache
+/home/cyking/Projects/ex04/obj/Debug/net5.0/ex04.AssemblyInfo.cs
+/home/cyking/Projects/ex04/obj/Debug/net5.0/ex04.csproj.CoreCompileInputs.cache
+/home/cyking/Projects/ex04/bin/Debug/net5.0/ex04
+/home/cyking/Projects/ex04/bin/Debug/net5.0/ex04.deps.json
+/home/cyking/Projects/ex04/bin/Debug/net5.0/ex04.runtimeconfig.json
+/home/cyking/Projects/ex04/bin/Debug/net5.0/ex04.runtimeconfig.dev.json
+/home/cyking/Projects/ex04/bin/Debug/net5.0/ex04.dll
+/home/cyking/Projects/ex04/bin/Debug/net5.0/ref/ex04.dll
+/home/cyking/Projects/ex04/bin/Debug/net5.0/ex04.pdb
+/home/cyking/Projects/ex04/obj/Debug/net5.0/ex04.dll
+/home/cyking/Projects/ex04/obj/Debug/net5.0/ref/ex04.dll
+/home/cyking/Projects/ex04/obj/Debug/net5.0/ex04.pdb
+/home/cyking/Projects/ex04/obj/Debug/net5.0/ex04.genruntimeconfig.cache
